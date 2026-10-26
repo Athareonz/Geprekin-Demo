@@ -7,7 +7,7 @@
    pesanan cuma disimpan di browser (localStorage), belum masuk Sheets.
    ========================================================== */
 const GEPREKIN_CONFIG = {
-    SHEET_URL: 'https://script.google.com/macros/s/AKfycbxmpAg6l209-z00QQSh4yvrcsXJjIJ6InBkdlWSk5oUwKIWX5KrjOodPtmSutwXnSXF/exec' 
+    SHEET_URL: 'https://script.google.com/macros/s/AKfycbxmpAg6l209-z00QQSh4yvrcsXJjIJ6InBkdlWSk5oUwKIWX5KrjOodPtmSutwXnSXF/exec' ,
 
     // Google Analytics 4: isi dengan Measurement ID, contoh: 'G-ABCDE12345'
     // Kosong = Analytics mati. Saat dibuka lewat localhost / file langsung, Analytics juga tidak aktif.
